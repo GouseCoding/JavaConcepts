@@ -1,4 +1,4 @@
-package OOPSConcepts;
+package methodvsConstructor;
 
 import java.util.*;
 

@@ -1,6 +1,4 @@
-package OOPSConcepts;
-
-import java.util.*;
+package methodvsConstructor;
 
    // adding two numbers
 
@@ -50,5 +48,4 @@ public class MethodOverloading
 		
 	}
 
-	
 }
