@@ -1,0 +1,8 @@
+polymorphism can be achieved using overloading
+
+1.Method names should be same
+2.Methods have different parameters in terms of :
+  1.Data type
+  2.order 
+  3.Number of parameters
+  
