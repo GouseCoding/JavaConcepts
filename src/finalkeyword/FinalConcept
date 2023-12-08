@@ -1,0 +1,5 @@
+Final variable : It can't be modified
+
+final Method: It can't be override in child class
+
+Final class : It can't be extends(i.e can't be inherited)
